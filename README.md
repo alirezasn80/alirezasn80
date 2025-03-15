@@ -4,7 +4,17 @@
 
 ###
 
-<h1 align="left">Hi! I'm Seyed, an Android developer 👋</h1>
+<h1 align="left">Hi! I'm Seyed👋</h1>
+
+
+
+🔥**Android Developer | Debugging My Life**  
+
+I write Android apps, break things, and then fix them (hopefully).  
+Passionate about Kotlin, Jetpack Compose, and anything that makes mobile development more fun.  
+
+
+🚀 Always learning, always improving!  
 
 ###
 
@@ -30,22 +40,6 @@
 
 ###
 
-<h3 align="left">🌐 Social Media :</h3>
-
-###
-
-<div align="left">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=seyed.alireza.nejati.80@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/seyed-alireza-nejati-994b8a21b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" />
-</div>
-
-###
-
 <h3 align="left">⭐ My Favorite Apps:</h3>
 
 <div align="left">
@@ -61,3 +55,15 @@
 ###
 
 <img src="https://raw.githubusercontent.com/alirezasn80/alirezasn80/output/snake.svg" alt="Snake animation" />
+
+<div align="left">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=seyed.alireza.nejati.80@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/seyed-alireza-nejati-994b8a21b/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" />
+</div>
+
+###
