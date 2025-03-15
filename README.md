@@ -4,11 +4,11 @@
 
 ###
 
-<h2 align="left">Hi! I'm Seyed. an Android developer 👋</h2>
+<h1 align="left">Hi! I'm Seyed. an Android developer 👋</h1>
 
 ###
 
-<h4 align="left">💻 Tech Stack:</h4>
+<h3 align="left">💻 Tech Stack:</h3>
 
 ###
 
@@ -20,11 +20,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gradle/02303A" height="30" alt="gradle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
 
 ###
 
-<h4 align="left">🌐 Social Media :</h4>
+<h3 align="left">🌐 Social Media :</h3>
 
 ###
 
@@ -37,5 +43,13 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alirezasn80/alirezasn80/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alirezasn80/alirezasn80/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alirezasn80/alirezasn80/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
