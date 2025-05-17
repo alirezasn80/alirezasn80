@@ -54,7 +54,7 @@ Passionate about Kotlin, Jetpack Compose, and anything that makes mobile develop
 
 ###
 
-<img src="https://raw.githubusercontent.com/alirezasn80/alirezasn80/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/alirezasn80/alirezasn80/output/snake.svg" alt="Snake animation" /> -->
 
 <div align="left">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=seyed.alireza.nejati.80@gmail.com" target="_blank">
